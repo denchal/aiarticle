@@ -73,6 +73,6 @@ Załóżmy, że mamy artykuł o "Sieciach Neuronowych". Aplikacja przekształci 
 ```html
 <h1>Sieci Neuronowe</h1>
 <p>Sieci neuronowe to...</p>
-<img src="image_placeholder.jpg" alt="Graficzna ilustracja schematu działania sieci neuronowych, przedstawiająca warstwy wejściowe, ukryte i wyjściowe w formie diagramu z ikonami w stylu minimalistycznym, na białym tle">
-<figcaption>Ilustracja schematu działania sieci neuronowych</figcaption>
+<img src="image_placeholder.jpg" alt="Scena przedstawiająca nowoczesną fabrykę z robotami pracującymi obok ludzi, którzy kontrolują procesy na ekranach komputerów. Dynamiczna interakcja między człowiekiem a maszyną w kontekście automatyzacji. Styl futurystyczny, z akcentem na technologię.">
+<figcaption>Robotyka i automatyzacja w fabryce z równoczesnym udziałem ludzi w monitorowaniu procesów.</figcaption>
 ```
